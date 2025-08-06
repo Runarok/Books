@@ -11,20 +11,17 @@ I use this repo to upload the books I create and share the exact process I follo
 
 Each folder contains one book project. There's no strict format — each folder **may include any of the following**, depending on what I chose to make:
 
-* `.md` file — the complete book in markdown, named after the book (e.g. `Modern_Magic.md`, `Life_Lessons.md`).
-* `.pdf` files — usually two versions, both named after the book:
+* **`.md` file** — The full book in Markdown format.
+  *Named after the book (e.g. `Modern_Magic.md`, `Life_Lessons.md`).*
 
-  * A **regular PDF** for basic reading.
-  * A **booklet PDF** designed for printing.
-    * **Print settings**:
-      * Print on both sides
-      * Flip on long edge
-* A folder called `Separated files/`:
+* **`.pdf` files** — Usually two or more versions, all named after the book:
 
-  * Contains `.md` files split by sections or topics.
-  * Used when building GitHub Pages versions (updated at my own pace, not always present).
-
-**You might see only one `.md` or just PDFs, or all of the above. It depends on what I finished for that book.**
+  * `Book_Title.pdf` — A **regular PDF** for standard reading.
+  * `Book_Title_Booklet.pdf` — A **booklet-style PDF** for **compact double-sided printing**.
+  * `Book_Title_Booklet_Separated_Cover.pdf` — A **booklet PDF with the cover page separated**.
+    This version is ideal for **binding**, as the cover can be printed separately on heavier paper if desired.
+  * **Print settings:**
+    * **Print on both sides** , **Flip on long edge**
 
 ---
 
