@@ -2,11 +2,11 @@
   {
     "title": "Book One Title",
     "description": "Description of the first book.",
-    "link": "https://yourwebsite.com/book-one",
+    "link": "https://yourwebsite.com/book-one"
   },
   {
     "title": "Book One Title",
     "description": "Description of the first book.",
-    "link": "https://yourwebsite.com/book-one",
-  },
+    "link": "https://yourwebsite.com/book-one"
+  }
 ]
