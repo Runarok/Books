@@ -1,12 +1,7 @@
 [
   {
-    "title": "Book One Title",
-    "description": "Description of the first book.",
-    "link": "https://yourwebsite.com/book-one"
-  },
-  {
-    "title": "Book Two Title",
-    "description": "Description of the second book.",
-    "link": "https://yourwebsite.com/book-two"
+    "title": "17 Ground Rules for a Disciplined Life",
+    "description": "17 laws I’ve found that guide a disciplined, focused, and meaningful life.",
+    "link": "https://github.com/Runarok/books/tree/main/17%20Ground%20Rules%20for%20a%20Disciplined%20Life"
   }
 ]
