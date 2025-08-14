@@ -655,8 +655,7 @@ When you can hold your ground in the heat of a trigger, influence shifts back to
 
 ---
 
-*PART II — BREAKING THE TRAPS (Psychology + Practical Strategy)*
-
+*PART II — BREAKING THE TRAPS*
 1. **“Every trap is built on two things: what you want, and what you fear losing.”**
 2. **“You don’t beat a trap by resisting it — you beat it by making it irrelevant.”**
 3. **“The strongest chains are the ones you think are part of your body.”**
@@ -1018,7 +1017,7 @@ Tend it carefully, or watch it crash under invisible strain.
 
 ---
 
-*PART III — STRATEGIC PRESENCE (Greene-style positioning in social life)*
+*PART III — STRATEGIC PRESENCE*
 
 1. **“You’re never just present — you’re either positioned or exposed.”**
 2. **“The loudest person is rarely the most powerful, but often the most disposable.”**
@@ -1289,7 +1288,7 @@ He who can moves through it like a shadow — unseen, unchallenged, and in contr
 
 
 
-*PART IV — CREATIVE POWER IN THE AI AGE (Practical + Philosophical)*
+*PART IV — CREATIVE POWER IN THE AI AGE*
 
 1. **“AI won’t replace you — but someone using it better will.”**
 2. **“In a world of infinite tools, the rare skill is knowing exactly what to build.”**
@@ -1557,7 +1556,7 @@ Lose control, and the power multiplies against you.
 
 ---
 
-*PART V — LONG-TERM SELF-MASTERY (Closing the Loop)*
+*PART V — LONG-TERM SELF-MASTERY*
 
 1. **“Discipline isn’t about control — it’s about building a life that runs without constant force.”**
 2. **“Mastery is when the hard thing becomes the default thing.”**
