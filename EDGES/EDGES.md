@@ -1,6 +1,6 @@
 ## *Acknowledgements*
 
-> \\\*“In a world full of traps, the errors you witness can become your sharpest tools.”\\\*
+> “In a world full of traps, the errors you witness can become your sharpest tools.”
 
 I did not write this book because I was flooded with praise.  
 Those who read my first work were few — but they read with attention, and that was enough.
@@ -76,7 +76,7 @@ From you, I learned the value of knowing what not to do, and how much strength c
 
 ## *Preface*
 
-> \\\*“Clarity is a burden to the comfortable, but a weapon to the prepared.”\\\*
+> *“Clarity is a burden to the comfortable, but a weapon to the prepared.”*
 
 We live in an age where comfort is disguised as progress, and distraction is sold as fulfillment.  
 Most people never question the invisible traps that shape their choices, the quiet habits, emotional reflexes, and social games that decide their lives long before they notice.
@@ -101,7 +101,7 @@ The rest is your responsibility.
 
 ## **The Default Mode**
 
-> \\\*Those who do not direct their days will be directed by their impulses — and by those who profit from them.\\\*
+> *Those who do not direct their days will be directed by their impulses — and by those who profit from them.*
 
 ---
 
@@ -222,7 +222,7 @@ Once you see where you’ve been drifting, you can take the wheel — and stop l
 
 ## **The Play-Act of Maturity**
 
-> \\\*Age adds years, not wisdom — unless you fight for it.\\\*
+> *Age adds years, not wisdom — unless you fight for it.*
 
 ---
 
@@ -334,7 +334,7 @@ True maturity is quiet not because it hides — but because it no longer needs t
 
 ## **Happiness as a Drug**
 
-> \\\*Pleasure tricks you into thinking you’ve found meaning.\\\*
+> *Pleasure tricks you into thinking you’ve found meaning.*
 
 ---
 
@@ -442,7 +442,7 @@ Meaning is the house it visits. Build the house.
 
 ## **The Postponement Instinct**
 
-> \\\*Waiting for the ‘right time’ is the surest way to waste a life.\\\*
+> *Waiting for the ‘right time’ is the surest way to waste a life.*
 
 ---
 
@@ -552,7 +552,7 @@ Push it open before it locks.
 
 ## **Emotions as Chains**
 
-> \\\*Those who control your emotions control your decisions.\\\*
+> *Those who control your emotions control your decisions.*
 
 ---
 
@@ -667,7 +667,7 @@ When you can hold your ground in the heat of a trigger, influence shifts back to
 
 ## **Raising Standards as a Filter**
 
-> \\\*"You attract what you tolerate."\\\*
+> *"You attract what you tolerate."*
 
 ---
 
@@ -735,7 +735,7 @@ This is why raising standards feels harder at first: you create friction with pe
 
 ## **Ego Maintenance**
 
-> \\\*"Ego should be a blade — sharp, but never swinging wildly."\\\*
+> *"Ego should be a blade — sharp, but never swinging wildly."*
 
 ---
 
@@ -843,7 +843,7 @@ Hone it, wield it with precision, and it protects and amplifies you. Leave it un
 
 ## **Boundaries Without Guilt**
 
-> \\\*"A door without a lock is an invitation to be robbed."\\\*
+> *"A door without a lock is an invitation to be robbed."*
 
 ---
 
@@ -938,7 +938,7 @@ Set it firmly, and watch your life stop being stolen.
 
 ## **The Human as a Mobile**
 
-> \\\*"Every bond is a balance — tip it too far and it breaks."\\\*
+> *"Every bond is a balance — tip it too far and it breaks."*
 
 ---
 
@@ -1030,7 +1030,7 @@ Tend it carefully, or watch it crash under invisible strain.
 
 ## **The Art of Standing Out Selectively**
 
-> \\\*"Visibility is power — until it makes you a target."\\\*
+> *"Visibility is power — until it makes you a target."*
 
 ---
 
@@ -1117,7 +1117,7 @@ Controlled visibility wins influence without painting a target on your back.
 
 ## **Influence Without Spotlight**
 
-> \\\*"True power moves in silence."\\\*
+> *"True power moves in silence."*
 
 ---
 
@@ -1203,7 +1203,7 @@ When no one sees the hand guiding the pieces, the game bends effortlessly to you
 
 ## **Reading the Room**
 
-> \\\*"A king who can’t read his court won’t keep his crown."\\\*
+> *"A king who can’t read his court won’t keep his crown."*
 
 ---
 
@@ -1301,7 +1301,7 @@ He who can moves through it like a shadow — unseen, unchallenged, and in contr
 
 ## **Creativity as a Discipline**
 
-> \\\*"Inspiration is for amateurs — the rest just work."\\\*
+> *"Inspiration is for amateurs — the rest just work."*
 
 ---
 
@@ -1387,7 +1387,7 @@ Show up every day, and the work will speak louder than the muse.
 
 ## **AI as an Ally, Not a Crutch**
 
-> \\\*"The tool should serve the mind, not replace it."\\\*
+> *"The tool should serve the mind, not replace it."*
 
 ---
 
@@ -1473,7 +1473,7 @@ Treat AI as your ally — not a crutch — and your creativity will multiply wit
 
 ## **The Hybrid Mind**
 
-> \\\*"Man plus machine beats both — if man stays in control."\\\*
+> *"Man plus machine beats both — if man stays in control."*
 
 ---
 
@@ -1569,7 +1569,7 @@ Lose control, and the power multiplies against you.
 
 ## **Your Operating System**
 
-> \\\*"Live by your own code or be ruled by someone else’s."\\\*
+> *"Live by your own code or be ruled by someone else’s."*
 
 ---
 
@@ -1655,7 +1655,7 @@ Autonomy begins where external scripts end.
 
 ## **The Growth Immune System**
 
-> \\\*"If you don’t guard your mind, entropy will take it."\\\*
+> *"If you don’t guard your mind, entropy will take it."*
 
 ---
 
@@ -1743,7 +1743,7 @@ Growth is a system — protect it relentlessly.
 
 ## **The Quiet Advantage**
 
-> \\\*"The sharpest blade is the one they never see coming."\\\*
+> *"The sharpest blade is the one they never see coming."*
 
 ---
 
