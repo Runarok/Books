@@ -1,102 +1,70 @@
 # 📚 Books
 
-This repository is for people who want to start making books they like — and want a **practical**, **real**, and **non-performative** process to follow.
+This repository is for people who want to create books they enjoy — and want a **practical**, **real**, and **non-performative** process to follow.
 
 It’s also for **myself** — I’m one of those people.
-I use this repo to upload the books I create and share the exact process I follow. If you’re into making books based on topics you enjoy, this might be helpful.
+
+I use this repo to upload the books I create and to share the exact process I follow. If you're into making books based on topics you care about, this might be useful to you.
 
 ---
 
 ## 📁 Folder & File Overview
 
-Each folder contains one book project. There's no strict format — each folder **may include any of the following**, depending on what I chose to make:
+Each folder in the `/books` directory contains a single book project. There’s no strict format — each folder may include any of the following, depending on what I chose to make:
 
-* **`.md` file** — The full book in Markdown format.
-  *Named after the book (e.g. `Modern_Magic.md`, `Life_Lessons.md`).*
+- **`.md` file** — The full book in Markdown format  
+  *(e.g. `Modern_Magic.md`, `Life_Lessons.md`)*
 
-* **`.pdf` files** — Usually two or more versions, all named after the book:
+- **`.pdf` files** — Typically, you'll find multiple versions:
 
-  * `Book_Title.pdf` — A **regular PDF** for standard reading.
-  * `Book_Title_Booklet.pdf` — A **booklet-style PDF** for **compact double-sided printing**.
-  * `Book_Title_Booklet_Separated_Cover.pdf` — A **booklet PDF with the cover page separated**.
-    This version is ideal for **binding**, as the cover can be printed separately on heavier paper if desired.
-  * **Print settings:**
-    * **Print on both sides** , **Flip on long edge**
+  - `Book_Title.pdf` — A standard PDF for general reading
+  - `Book_Title_Booklet.pdf` — A print-ready **booklet-style PDF** for folding/stapling
+  - `Book_Title_Booklet_Separated_Cover.pdf` — Same as above, but with a **detached cover page** for printing on thicker paper or for binding
+
+  **Recommended Print Settings:**
+  - Print on both sides & Flip on long edge
 
 ---
 
 ## 🧠 Why I Do This
 
-I have a lot of different interests. Making “content-books” is one of them.
+I have a lot of different interests. Making “content-books” is one way I enjoy organizing and sharing what I care about.
 
-I’m not doing this professionally. I just enjoy making things based on what I care about, and putting them in a book form helps me process and share them.
+I'm not doing this professionally. I simply enjoy the process — writing helps me think, and turning thoughts into book form gives them a shape I can share.
 
-I don’t write in fancy or poetic ways.
-My writing style is simple, direct, and low on fluff — that’s how I think and how I like to read. So that’s the tone I aim for in these books.
-
----
-
-## ⚙️ My Book-Making Process
-
-I use AI — mainly ChatGPT — to help bring structure, polish, and expand on my core ideas.
-
-Yes, people debate whether using AI for writing is “right.” But I believe if it’s used thoughtfully, it’s a powerful creative tool.
-
-### My Steps:
-
-1. **Customize ChatGPT to Fit My Style**
-
-   * I feed GPT with detailed preferences:
-
-     * Avoid fluff
-     * Keep responses clear, minimal, and to the point
-     * Don’t overwrite
-   * I use either a Custom GPT or just a long, structured setup prompt.
-
-2. **Start with Thinking — Don’t Skip That**
-
-   * It’s tempting to ask GPT for ideas, but I strongly suggest **you think first**.
-   * Overdependence makes your creative brain slow and passive. You’ll miss the value of original thinking.
-
-3. **Then Use GPT to Expand & Improve**
-
-   * Once I have a rough idea and book concept, I:
-
-     * Break it down into key headers or themes
-     * Provide full background to GPT
-     * Ask it to help generate or improve content
-   * I always revise what it gives. AI is support, not substitute.
+I don’t aim to write in fancy or poetic ways. My style is simple, direct, and low on fluff — that’s how I think, and how I like to read. That’s the tone I stick to in all my books.
 
 ---
 
-## 🛠️ Print-Friendly Booklets
+## 📂 Supporting Docs & Assets
 
-To make a booklet version of the PDF, I use this online tool:
-👉 [https://online2pdf.com/en/create-a-booklet](https://online2pdf.com/en/create-a-booklet)
+This repo includes additional documentation about how I make these books and how I prepare them for printing.
 
-This helps turn a regular PDF into a print-ready booklet you can fold and staple.
+- 📘 [Book-Making Process](./assets/BOOK_PROCESS.md)  
+  *How I use thinking + AI to structure and create my books*
 
-**When printing:**
-
-* Choose **Print on both sides**
-* Use **Flip on long edge**
+- 🖨️ [Print-Friendly Booklet Guide](./assets/PRINTING_GUIDE.md)  
+  *How to convert and print your PDFs into foldable booklets*
 
 ---
 
-## 🌐 Book Site (Coming Soon)
+## 🌐 Book Site
 
-I plan to upload final, nicely rendered versions of my books to a public website.
-For now, this is just a placeholder.
+📍 [Aurora Chronicles Website](https://tempestaethel.github.io/AuroraChronicles/)
+
+This is where I publicly link to the books from this repo.
+
+Note: You can't read the books directly on the site — it simply redirects to the appropriate GitHub folder for each book. It’s a clean way to browse and share.
 
 ---
 
 ## 🗣 Final Note
 
-This isn't some perfect author journey or polished writing portfolio.
-It’s a place to make and share real, readable books around topics I enjoy.
+This isn’t a perfect author journey or polished writing portfolio.
 
-If you're into the idea of building your own books — even casually — feel free to look through these or use the flow I follow.
-More will be added as I make them, based on time and interest.
+It’s a space to **make and share real, readable books** around topics that matter to me — and maybe to you, too. If you're interested in casually building your own books, feel free to explore or use the same workflow.
+
+More will be added over time, as interest and energy allow.
 
 ---
 
