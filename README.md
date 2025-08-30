@@ -10,19 +10,54 @@ I use this repo to upload the books I create and to share the exact process I fo
 
 ## 📁 Folder & File Overview
 
-Each folder in the `/books` directory contains a single book project. There’s no strict format — each folder may include any of the following, depending on what I chose to make:
+Books are organized into two main categories based on their focus and tone:
+
+- `thinking/` — Books about structured ideas, personal philosophy, life systems, or societal critiques.  
+  These focus on how we live, think, and interact — often from a practical or reflective perspective.
+
+- `expression/` — Books centered around self-expression, emotion, and creative output.  
+  This includes things like quote collections, emotional explorations, introspective prompts, or artistic fragments.
+
+Each book folder **may include** a subfolder named **separated_files** containing modular Markdown files split into parts or chapters.  
+This approach helps break down longer works into manageable pieces and supports building full books incrementally.
+
+Every book folder within the main categories represents a single project. The contents can vary but typically include one or more of the following:
 
 - **`.md` file** — The full book in Markdown format  
-  *(e.g. `Modern_Magic.md`, `Life_Lessons.md`)*
+- **`.pdf` files** — Usually multiple formats:
 
-- **`.pdf` files** — Typically, you'll find multiple versions:
+  - `Book_Title.pdf` — Standard PDF for general reading  
+  - `Book_Title_Booklet.pdf` — Print-ready booklet (fold & staple)  
+  - `Book_Title_Booklet_Separated_Cover.pdf` — Booklet with a detached cover page for special printing
 
-  - `Book_Title.pdf` — A standard PDF for general reading
-  - `Book_Title_Booklet.pdf` — A print-ready **booklet-style PDF** for folding/stapling
-  - `Book_Title_Booklet_Separated_Cover.pdf` — Same as above, but with a **detached cover page** for printing on thicker paper or for binding
+- **`separated_files/` folder (optional)** — Markdown files split into chapters or sections inside the book folder
 
-  **Recommended Print Settings:**
-  - Print on both sides & Flip on long edge
+**🖨️ Recommended Print Settings:**  
+Print on both sides, flip on long edge.
+
+---
+
+## 📂 Folder Structure Example
+
+<pre>
+/books
+│
+├── thinking/        ← Structured thoughts, systems, worldview, life philosophy
+│   └── [Book folders go here]
+│
+└── expression/      ← Self-expression, creativity, emotion, internal voice
+    └── [Book folders go here]
+</pre>
+
+---
+
+## 📂 Assets Folder
+
+The `assets/` folder contains supporting documents, guides, templates, and other extra files related to the book-making process, such as:
+
+- 📘 [Book-Making Process](./assets/BOOK_PROCESS.md) — How I use thinking + AI to structure and create my books  
+- 🖨️ [Print-Friendly Booklet Guide](./assets/PRINTING_GUIDE.md) — How to convert and print your PDFs into foldable booklets  
+- Other helpful resources and templates for writing, formatting, and publishing
 
 ---
 
@@ -36,25 +71,13 @@ I don’t aim to write in fancy or poetic ways. My style is simple, direct, and 
 
 ---
 
-## 📂 Supporting Docs & Assets
-
-This repo includes additional documentation about how I make these books and how I prepare them for printing.
-
-- 📘 [Book-Making Process](./assets/BOOK_PROCESS.md)  
-  *How I use thinking + AI to structure and create my books*
-
-- 🖨️ [Print-Friendly Booklet Guide](./assets/PRINTING_GUIDE.md)  
-  *How to convert and print your PDFs into foldable booklets*
-
----
-
 ## 🌐 Book Site
 
 📍 [Aurora Chronicles Website](https://tempestaethel.github.io/AuroraChronicles/)
 
-This is where I publicly link to the books from this repo.
+This is a simple front-end that links to each book using the structured data in `Books.json` at the root of the repository.
 
-Note: You can't read the books directly on the site — it simply redirects to the appropriate GitHub folder for each book. It’s a clean way to browse and share.
+> Note: You can't read the books directly on the site — it redirects to the correct GitHub folder for each book. It’s a clean way to browse and share.
 
 ---
 
