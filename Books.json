@@ -2,11 +2,43 @@
   {
     "title": "17 Ground Rules for a Disciplined Life",
     "description": "17 laws I’ve found that guide a disciplined, focused, and meaningful life.",
-    "link": "https://github.com/Runarok/books/tree/main/17%20Ground%20Rules%20for%20a%20Disciplined%20Life"
+    "link": "https://github.com/Runarok/books/tree/main/thinking/17%20Ground%20Rules%20for%20a%20Disciplined%20Life",
+    "category": "thinking"
   },
   {
     "title": "EDGES",
     "description": "A sharp guide to self-mastery, strategy, and clarity in a world full of traps and distractions.",
-    "link": "https://github.com/Runarok/books/tree/main/EDGES"
+    "link": "https://github.com/Runarok/books/tree/main/thinking/EDGES",
+    "category": "thinking"
+  },
+  {
+    "title": "Stagnation",
+    "description": "Explores the mindset and behaviors of stagnant people and how it affects growth.",
+    "link": "https://github.com/Runarok/books/tree/main/thinking/Stagnation",
+    "category": "thinking"
+  },
+  {
+    "title": "Ashes of Meaning",
+    "description": "A nihilistic view on life and meaning, confronting the void with honesty.",
+    "link": "https://github.com/Runarok/books/tree/main/thinking/Ashes%20of%20Meaning",
+    "category": "thinking"
+  },
+  {
+    "title": "42 Seconds of Silence",
+    "description": "A book of many questions to self-explore — not meditative, but deeply introspective.",
+    "link": "https://github.com/Runarok/books/tree/main/expression/42%20Seconds%20of%20Silence",
+    "category": "expression"
+  },
+  {
+    "title": "Facets of Feeling",
+    "description": "A collection of works inspired by Navarasa — the nine emotions.",
+    "link": "https://github.com/Runarok/books/tree/main/expression/Facets%20of%20Feeling",
+    "category": "expression"
+  },
+  {
+    "title": "My Originals",
+    "description": "A curated collection of original quotes and personal reflections.",
+    "link": "https://github.com/Runarok/books/tree/main/expression/My%20Originals",
+    "category": "expression"
   }
 ]
