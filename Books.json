@@ -18,18 +18,6 @@
     "category": "thinking"
   },
   {
-    "title": "Ashes of Meaning",
-    "description": "A nihilistic view on life and meaning, confronting the void with honesty.",
-    "link": "https://github.com/Runarok/books/tree/main/thinking/Ashes%20of%20Meaning",
-    "category": "thinking"
-  },
-  {
-    "title": "42 Seconds of Silence",
-    "description": "A book of many questions to self-explore — not meditative, but deeply introspective.",
-    "link": "https://github.com/Runarok/books/tree/main/expression/42%20Seconds%20of%20Silence",
-    "category": "expression"
-  },
-  {
     "title": "Facets of Feeling",
     "description": "A collection of works inspired by Navarasa — the nine emotions.",
     "link": "https://github.com/Runarok/books/tree/main/expression/Facets%20of%20Feeling",
@@ -40,5 +28,17 @@
     "description": "A curated collection of original quotes and personal reflections.",
     "link": "https://github.com/Runarok/books/tree/main/expression/My%20Originals",
     "category": "expression"
+  },
+  {
+    "title": "42 Seconds of Silence",
+    "description": "A book of many questions to self-explore — not meditative, but deeply introspective.",
+    "link": "https://github.com/Runarok/books/tree/main/expression/42%20Seconds%20of%20Silence",
+    "category": "expression"
+  },
+  {
+    "title": "Ashes of Meaning",
+    "description": "A nihilistic view on life and meaning, confronting the void with honesty.",
+    "link": "https://github.com/Runarok/books/tree/main/thinking/Ashes%20of%20Meaning",
+    "category": "thinking"
   }
 ]
