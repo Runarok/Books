@@ -37,6 +37,14 @@ Print on both sides, flip on long edge.
 
 ---
 
+## 🖼️ Oneshots Folder
+
+The `oneshots/` folder contains **standalone visual works** — complete ideas expressed in a single image.     
+These aren't part of the longer books. They're short-form, self-contained pieces: visual poems, one-frame stories, illustrated quotes, or creative fragments.    
+Each one meant to be experienced as-is — without chapters or extra explanation. 
+
+---
+
 ## 📂 Folder Structure Example
 
 <pre>
@@ -45,10 +53,12 @@ Print on both sides, flip on long edge.
 ├── thinking/        ← Structured thoughts, systems, worldview, life philosophy
 │   └── [Book folders go here]
 │
-└── expression/      ← Self-expression, creativity, emotion, internal voice
-    └── [Book folders go here]
+├── expression/      ← Self-expression, creativity, emotion, internal voice
+│   └── [Book folders go here]
+│
+└── oneshots/        ← Standalone image-based works (single-page visual stories)
+    └── [Each piece folders go here]
 </pre>
-
 ---
 
 ## 📂 Assets Folder
