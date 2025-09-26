@@ -20,6 +20,8 @@
 
 ---
 
+> The table of contents here is not updated to the latest version; only the PDF contains the updated version.
+
 ## **Part I — The Split World** *(Reality Wears Two Faces)*
 
 1. **Two Truths Exist at Once**
