@@ -52,6 +52,7 @@ All PDFs use a 2-letter prefix to indicate format:
 
 | Code | Description                                         | Syntax              | Example                  |
 | ---- | --------------------------------------------------- | ------------------- | ------------------------ |
+| `MD` | **Markdown** — Markdown content                | `MD_Book_Title.md` | `MD_The_17_Rules.md` |
 | `MB` | **Main Book** — regular reading PDF                 | `MB_Book_Title.pdf` | `MB_The_17_Rules.pdf` |
 | `BS` | **Booklet (Short-side flip)** — print-ready booklet | `BS_Book_Title.pdf` | `BS_The_17_Rules.pdf` |
 | `BL` | **Booklet (Long-side flip)** — print-ready booklet  | `BL_Book_Title.pdf` | `BL_The_17_Rules.pdf` |
