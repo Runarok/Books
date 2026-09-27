@@ -1,7 +1,7 @@
 /* =========================================================
    RUNAROK BOOKS
    ========================================================= */
-const BOOKS_JSON = "books.json";
+const BOOKS_JSON = "https://raw.githubusercontent.com/Runarok/Books/refs/heads/main/Books.json";
 const state = {
 	books: [],
 	mainCategory: "all",
