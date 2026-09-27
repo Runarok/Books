@@ -1,0 +1,170 @@
+[
+{
+"title": "17 Ground Rules for a Disciplined Life",
+"description": "17 laws I’ve found that guide a disciplined, focused, and meaningful life.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/17%20Ground%20Rules%20for%20a%20Disciplined%20Life",
+"category": "thinking"
+},
+{
+"title": "EDGES",
+"description": "A sharp guide to self-mastery, strategy, and clarity in a world full of traps and distractions.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/Edges",
+"category": "thinking"
+},
+{
+"title": "Stagnation",
+"description": "Explores the mindset and behaviors of stagnant people and how they affect growth.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/Stagnation",
+"category": "thinking"
+},
+{
+"title": "Ashes of Meaning",
+"description": "A nihilistic view on life and meaning, confronting the void with honesty.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/Ashes%20of%20Meaning",
+"category": "thinking"
+},
+{
+"title": "Beautiful chaos",
+"description": "A work based on the concept of absurdism and finding meaning within an inherently chaotic existence.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/Beautiful%20chaos",
+"category": "thinking"
+},
+{
+"title": "Make It Count",
+"description": "My take on productivity, including ideas and approaches for becoming more productive.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/Make%20It%20Count",
+"category": "thinking"
+},
+{
+"title": "MIND",
+"description": "A look at how we can better ourselves, change our ways, and become better versions of ourselves.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/MIND",
+"category": "thinking"
+},
+{
+"title": "The Confidence Mirage",
+"description": "A look at how confidence can sometimes be an act or image that people put up.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/The%20Confidence%20Mirage",
+"category": "thinking"
+},
+{
+"title": "The Gravity of Contradiction",
+"description": "Explores how seemingly opposite things can both be true depending on the situation and perspective.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/The%20Gravity%20of%20Contradiction",
+"category": "thinking"
+},
+{
+"title": "The Hum Within",
+"description": "A search for peace and stillness within the chaos of life.",
+"link": "https://github.com/Runarok/Books/tree/main/thinking/The%20Hum%20Within",
+"category": "thinking"
+},
+{
+"title": "42 Seconds of Silence",
+"description": "A book of many questions to self-explore — not meditative, but deeply introspective.",
+"link": "https://github.com/Runarok/Books/tree/main/expression/42%20Seconds%20of%20Silence",
+"category": "expression"
+},
+{
+"title": "Between Worlds",
+"description": "Explores the struggle between loving and hating, understanding and misunderstanding, and the conflicting emotions we can have toward someone or something.",
+"link": "https://github.com/Runarok/Books/tree/main/expression/Between%20Worlds",
+"category": "expression"
+},
+{
+"title": "My Originals",
+"description": "A curated collection of original quotes and personal reflections.",
+"link": "https://github.com/Runarok/Books/tree/main/expression/My%20Originals",
+"category": "expression"
+},
+{
+"title": "The Minds Maze",
+"description": "77 thoughts that I had, grouped together into different themes and ideas.",
+"link": "https://github.com/Runarok/Books/tree/main/expression/The%20Minds%20Maze",
+"category": "expression"
+},
+{
+"title": "Facets of Feeling",
+"description": "A collection of works inspired by Navarasa — the nine emotions.",
+"link": "https://github.com/Runarok/Books/tree/main/collections/Facets%20of%20Feeling",
+"category": "collections-facets_of_feeling"
+},
+{
+"title": "Leaf",
+"description": "A collection of five works exploring human development, thought, perception, and the mind.",
+"link": "https://github.com/Runarok/Books/tree/main/collections/Leaf",
+"category": "collections-leaf"
+},
+{
+"title": "Leaf 01 — Holistic Human Development",
+"description": "Explores how to grow and develop better across different areas of life.",
+"link": "https://github.com/Runarok/Books/tree/main/collections/Leaf/Leaf01_Holistic_Human_Development",
+"category": "collections-leaf"
+},
+{
+"title": "Leaf 02 — The Garden of Midnight Thoughts",
+"description": "A collection of thoughts born during nights of wonder and sonder, transformed into concepts represented through 40 flowers and leaves.",
+"link": "https://github.com/Runarok/Books/tree/main/collections/Leaf/Leaf02_The_Garden_of_Midnight_Thoughts",
+"category": "collections-leaf"
+},
+{
+"title": "Leaf 03 — What Lies Beneath",
+"description": "A collection of iceberg charts exploring concepts and ideas that I found interesting.",
+"link": "https://github.com/Runarok/Books/tree/main/collections/Leaf/Leaf03_What_Lies_Beneath",
+"category": "collections-leaf"
+},
+{
+"title": "Leaf 04 — Operating Lenses",
+"description": "35 different perspectives for looking at things, situations, and people.",
+"link": "https://github.com/Runarok/Books/tree/main/collections/Leaf/Leaf04_Operating_Lenses",
+"category": "collections-leaf"
+},
+{
+"title": "Leaf 05 — The Mental Move",
+"description": "A book about how to react, understand situations, and approach things in better ways.",
+"link": "https://github.com/Runarok/Books/tree/main/collections/Leaf/Leaf05_The_Mental_Move",
+"category": "collections-leaf"
+},
+{
+"title": "NOTE",
+"description": "A collection of random things and works that I have created, brought together in one place.",
+"link": "https://github.com/Runarok/Books/tree/main/collections/NOTE",
+"category": "collections-note"
+},
+{
+"title": "Software Guides",
+"description": "Simple guides explaining how to use different software and tools.",
+"link": "https://github.com/Runarok/Guides/tree/main/Code%20Manual/Softwares",
+"category": "guides"
+},
+{
+"title": "Rubik's Cube Guides",
+"description": "Guides related to Rubik's Cubes, including my main guide for solving most standard Rubik's Cubes.",
+"link": "https://github.com/Runarok/Guides/tree/main/Code%20Manual/Rubics",
+"category": "guides"
+},
+{
+"title": "FPGA Basics",
+"description": "A guide covering the basics of FPGA through a book created for an event.",
+"link": "https://github.com/Runarok/Guides/tree/main/Code%20Quest/Events/FPGA",
+"category": "guides"
+},
+{
+"title": "Power BI Basics",
+"description": "A guide covering the basics of Power BI through a book created for an event.",
+"link": "https://github.com/Runarok/Guides/tree/main/Code%20Quest/Events/Power%20BI",
+"category": "guides"
+},
+{
+"title": "Internship Assignments & Activities",
+"description": "A collection of three sections, each containing four books of assignments and activities covering computer science fundamentals.",
+"link": "https://github.com/Runarok/ux-game-intern/",
+"category": "extras-internship"
+},
+{
+"title": "Recommendations",
+"description": "Collections of recommendations for books, movies, games, and other media.",
+"link": "https://github.com/Runarok/Guides/tree/main/Code%20Manual/Recommendations",
+"category": "extras-recommendation"
+}
+]

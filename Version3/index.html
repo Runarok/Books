@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>RunarokHrafn — Books</title>
+
+  <meta
+    name="description"
+    content="A collection of books, writings, guides, thoughts and other works by RunarokHrafn."
+  />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@500;600&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+  <div class="background">
+    <div class="orb orb-one"></div>
+    <div class="orb orb-two"></div>
+    <div class="orb orb-three"></div>
+  </div>
+
+  <header class="site-header">
+
+    <div class="header-inner">
+
+      <a
+        class="brand"
+        href="https://github.com/Runarok/Books"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src="https://avatars.githubusercontent.com/u/191216225"
+          alt="RunarokHrafn"
+          class="avatar"
+        />
+
+        <div class="brand-text">
+          <span class="brand-name">RunarokHrafn</span>
+          <span class="brand-subtitle">Books & Works</span>
+        </div>
+      </a>
+
+      <div class="header-actions">
+
+        <a
+          class="github-link"
+          href="https://github.com/Runarok/Books"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="GitHub"
+        >
+          <svg
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+          >
+            <path
+              d="M12 .5a12 12 0 0 0-3.79 23.39c.6.11.82-.26.82-.58v-2.05c-3.34.73-4.04-1.61-4.04-1.61-.55-1.39-1.34-1.76-1.34-1.76-1.09-.75.08-.74.08-.74 1.2.08 1.84 1.23 1.84 1.23 1.07 1.83 2.8 1.3 3.49.99.11-.78.42-1.3.76-1.6-2.67-.3-5.47-1.34-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.12-.3-.54-1.52.12-3.17 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6.01 0c2.29-1.55 3.3-1.23 3.3-1.23.66 1.65.24 2.87.12 3.17.77.84 1.24 1.91 1.24 3.22 0 4.6-2.8 5.62-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.22.69.83.58A12 12 0 0 0 12 .5Z"
+            />
+          </svg>
+        </a>
+
+        <button
+          class="theme-toggle"
+          id="themeToggle"
+          aria-label="Toggle theme"
+          type="button"
+        >
+          <span class="theme-icon sun">☼</span>
+          <span class="theme-icon moon">☾</span>
+        </button>
+
+      </div>
+
+    </div>
+
+  </header>
+
+
+  <main>
+
+    <section class="hero">
+
+      <div class="hero-content">
+
+        <div class="eyebrow">
+          <span class="eyebrow-dot"></span>
+          Personal Library
+        </div>
+
+        <h1>
+          Thoughts, ideas,<br />
+          <span>put into words.</span>
+        </h1>
+
+        <p>
+          A collection of books, reflections, guides, experiments,
+          and other works by RunarokHrafn.
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <section class="library">
+
+      <div class="library-toolbar">
+
+        <div class="search-wrapper">
+
+          <svg
+            class="search-icon"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+          >
+            <circle cx="11" cy="11" r="7"></circle>
+            <path d="m20 20-4-4"></path>
+          </svg>
+
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Search books, ideas, categories..."
+            autocomplete="off"
+          />
+
+          <button
+            id="clearSearch"
+            class="clear-search"
+            type="button"
+            aria-label="Clear search"
+          >
+            ×
+          </button>
+
+        </div>
+
+      </div>
+
+
+      <div class="category-bar">
+
+        <button
+          class="category-scroll category-left"
+          id="scrollLeft"
+          aria-label="Scroll categories left"
+          type="button"
+        >
+          ‹
+        </button>
+
+        <div
+          class="category-tabs"
+          id="categoryTabs"
+        ></div>
+
+        <button
+          class="category-scroll category-right"
+          id="scrollRight"
+          aria-label="Scroll categories right"
+          type="button"
+        >
+          ›
+        </button>
+
+      </div>
+
+
+      <div class="library-info">
+
+        <div>
+          <span id="resultCount">0</span>
+          <span id="resultLabel">works</span>
+        </div>
+
+        <div class="active-filter" id="activeFilter">
+          All works
+        </div>
+
+      </div>
+
+
+      <div
+        class="books-grid"
+        id="booksGrid"
+      ></div>
+
+
+      <div
+        class="empty-state"
+        id="emptyState"
+        hidden
+      >
+        <div class="empty-icon">⌕</div>
+
+        <h2>Nothing found</h2>
+
+        <p>
+          Try a different search term or category.
+        </p>
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <footer>
+
+    <div class="footer-inner">
+
+      <span>
+        © <span id="year"></span> RunarokHrafn
+      </span>
+
+      <a
+        href="https://github.com/Runarok/Books"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        GitHub
+      </a>
+
+    </div>
+
+  </footer>
+
+
+  <script src="script.js"></script>
+
+</body>
+</html>
